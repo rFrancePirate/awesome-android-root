@@ -111,6 +111,7 @@ If you are a newbie or don't know much about rooting, I'd  recommend going with 
 - **[LADB](https://github.com/tyronechen/LADB)** - Local ADB shell (FOSS)
 
 ### File Management
+- **[Total Commander](https://www.ghisler.ch/board/viewtopic.php?t=81186)** - Highly comprehensive file manager with root access (Non-FOSS)
 - **[MiXplorer](https://mixplorer.com/)** - Feature-rich file manager (FOSS)
 - **[Root Explorer](https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer)** - File manager with root access (Non-FOSS)
 - **[Xplore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)** - A file manager with root support (Non-FOSS) 
